@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": "admin123@gmail.com",
+      "name": "admin123",
+      "password": "admin@123"
+    },
+    {
+      "id": "hnNjzZ8",
+      "name": "",
+      "password": ""
+    },
+    {
+      "id": "vishnu21@gmail.com",
+      "name": "vishnu",
+      "password": "vishnu@123"
+    },
+    {
+      "id": "varadhan@gmail.com",
+      "name": "varadhan",
+      "password": "varadhan"
+    }
+  ]
+}
